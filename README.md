@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Eric Zhou
 
 # 💫 About Me:
-I am a second-year student at Williams College and a prospective Computer Science and Statistics Major.<br>I'm passionate about exploring coding, machine learning, and applications.
+I am a second-year student at Williams College and a prospective Computer Science and Statistics Major.<br>I'm passionate about exploring the realms of machine learning/AI as well as web and app development!
 
 # 🔭 What I'm working on:
 - Machine Learning with Scikit-learn
