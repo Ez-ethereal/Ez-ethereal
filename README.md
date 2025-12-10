@@ -1,16 +1,15 @@
 ## Hi 👋 I'm Eric Zhou
 
 # 💫 About Me:
-I am a second-year student at Williams College and a prospective Computer Science and Statistics Major.<br>I'm passionate about exploring the realms of machine learning/AI as well as web and app development!
+I am a junior at Williams College and a prospective Computer Science and Statistics Major.<br>I'm passionate about exploring the realms of machine learning/AI as well as web and app development!
 
 # 🔭 What I'm working on:
-- Machine Learning with Scikit-learn
-- Data Analysis with Python and SQL
+- Project Sino: A Wearable-Based Stress Detection App Based on Multimodal Machine Learning and Deep Learning Models
 
 # 🌱 I’m currently learning:
 
 - Deep Learning with Pytorch
-- Front-end development with React
+- Mobile Development with Swift and Kotlin
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
