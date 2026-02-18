@@ -5,11 +5,12 @@ I am a junior at Williams College and a prospective Computer Science and Statist
 
 # 🔭 What I'm working on:
 - Project Sino: A Wearable-Based Stress Detection App Based on Multimodal Machine Learning and Deep Learning Models
+- Fivify: AI-assisted Semantic Syntax Highlighter and Learning Helper for Mathematical Formulas
 
 # 🌱 I’m currently learning:
 
 - Deep Learning with Pytorch
-- Mobile Development with Swift and Kotlin
+- Mobile Development with React Native (TypeScript), FastAPI, OpenAI API
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
